@@ -267,3 +267,14 @@ class ex13{
         }
     }
 }
+/*code for ascii value
+ * a=97
+ */
+class asciival1{
+    public static void main(String[] args){
+        char ch ='a';
+        int asciivalue = ch;
+        System.out.println(asciivalue);
+    }
+}
+
